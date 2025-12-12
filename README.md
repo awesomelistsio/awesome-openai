@@ -41,6 +41,7 @@ OpenAI is an AI research and deployment company behind models like GPT, DALL·E,
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)** – LLM data framework for connecting language models to external data.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental open-source agent with OpenAI and automation.
 - **[GPT-Engineer](https://github.com/AntonOsika/gpt-engineer)** – Specify what you want and let GPT-4 build the codebase.
+- **[ADK-Rust](https://github.com/zavora-ai/adk-rust)** – Production-ready AI agent development kit for Rust with OpenAI support.
 
 ## ChatGPT
 
