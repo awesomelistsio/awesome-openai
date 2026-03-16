@@ -71,6 +71,7 @@ OpenAI is an AI research and deployment company behind models like GPT, DALL·E,
 - **[OpenAI Codex](https://openai.com/blog/openai-codex)** – AI system that translates natural language into code.
 - **[Code Interpreter / Advanced Data Analysis](https://openai.com/blog/chatgpt-plugins#code-interpreter)** – Execute code and analyze files inside ChatGPT.
 - **[GitHub Copilot](https://github.com/features/copilot)** – AI pair programmer powered by Codex, developed with GitHub.
+- **[Codex Action](https://github.com/icoretech/codex-action)** – GitHub Action to run OpenAI Codex CLI non-interactively in CI/CD workflows for code review, changelog summarization, and PR descriptions.
 
 ## Learning Resources
 
