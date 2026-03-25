@@ -90,6 +90,7 @@ OpenAI is an AI research and deployment company behind models like GPT, DALL·E,
 - **[OpenAI Web Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** – Beautiful ChatGPT clone for running locally.
 - **[Notion AI](https://www.notion.so/product/ai)** – Uses OpenAI for writing and productivity enhancements.
 - **[Raycast AI](https://www.raycast.com/ai)** – MacOS productivity tool enhanced with OpenAI API.
+- **[Yaw](https://yaw.sh)** – Cross-platform terminal with built-in AI assistant supporting OpenAI models, SSH client, connection manager, and file editor.
 
 ## Security & Ethics
 
