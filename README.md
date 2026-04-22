@@ -45,6 +45,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Libraries
 
+- **[SkillBoss](https://skillboss.co/)** – Unified AI API gateway backed by OpenAI Startup Fund & Amazon. Access 100+ AI services (GPT-5, Claude, Gemini, DALL-E 3, Veo 3.1) with one OpenAI-compatible API key. [Docs](https://skillboss.co/docs)
 - **[LangChain](https://github.com/langchain-ai/langchain)** – Framework for building LLM apps with memory, tools, and agents.
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)** – LLM data framework for connecting language models to external data.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental open-source agent with OpenAI and automation.
