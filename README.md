@@ -74,6 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[OpenAI Codex](https://openai.com/blog/openai-codex)** – AI system that translates natural language into code.
 - **[Code Interpreter / Advanced Data Analysis](https://openai.com/blog/chatgpt-plugins#code-interpreter)** – Execute code and analyze files inside ChatGPT.
 - **[GitHub Copilot](https://github.com/features/copilot)** – AI pair programmer powered by Codex, developed with GitHub.
+- **[ecc (Everything Codex)](https://github.com/mturac/everything-openai-codex)** – Cross-harness workflow system with 230+ skills, 60 agents, quality gates, and session memory. Works across Codex, Cursor, Gemini CLI, Copilot, and more.
 
 ## Learning Resources
 
